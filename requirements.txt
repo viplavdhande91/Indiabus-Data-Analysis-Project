@@ -29,7 +29,7 @@ python-dateutil==2.8.0
 pyttsx3==2.7
 pytz==2018.9
 pywin32-ctypes==0.2.0
-PyYAML==3.13
+PyYAML==5.1
 requests==2.21.0
 serial==0.0.97
 six==1.12.0
